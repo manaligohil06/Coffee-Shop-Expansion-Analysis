@@ -12,7 +12,8 @@ This project analyzes city-wise coffee consumption, customer behavior, and total
 ## Files
 
 - `Coffee_Analysis.ipynb` – Full analysis notebook
-- `/data` – Raw or cleaned datasets (optional)
+- `/data` – Raw or cleaned datasets
+- `/report` – project report
 
 ## Tools Used
 
@@ -29,4 +30,5 @@ This project analyzes city-wise coffee consumption, customer behavior, and total
 ## Contact
 
 **Manali Gohil** 
+
 [LinkedIn](https://www.linkedin.com/in/manaligohil06/) | [Email](mailto:manaligohil06@email.com)
