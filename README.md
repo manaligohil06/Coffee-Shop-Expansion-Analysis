@@ -11,8 +11,8 @@ This project analyzes city-wise coffee consumption, customer behavior, and total
 
 ## Files
 
-- `Coffee_Analysis.ipynb` – Full analysis notebook
-- `/data` – Raw or cleaned datasets
+- `Coffee.ipynb` – Full analysis notebook
+- `/data` – cleaned datase
 - `/report` – project report
 
 ## Tools Used
